@@ -1,3 +1,1 @@
-from .generator import Generator
-
-generate = Generator()
+from .executor import Executor
